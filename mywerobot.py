@@ -7,7 +7,7 @@ import werobot
 from lxml import etree
 from werobot.replies import ArticlesReply, Article, ImageReply, TextReply, MusicReply
 
-robot = werobot.WeRoBot(token='kanono')
+robot = werobot.WeRoBot(token='******')
 
 
 # 订阅后的回复
