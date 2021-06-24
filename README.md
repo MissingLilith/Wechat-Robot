@@ -4,11 +4,11 @@
 
 ### 2021-6 个人Python课程设计项目
 
-import：
-  -json/n
-  -random
-  -re
-  -time
-  -requests
-  -werobot
-  -lxml
+|import |
+|json   |
+|random |
+|re     |
+|time   |
+|requests|
+|werobot|
+|lxml   |
