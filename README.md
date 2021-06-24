@@ -5,7 +5,7 @@
 ### 2021-6 个人Python课程设计项目
 
 import：
-  -json
+  -json/n
   -random
   -re
   -time
