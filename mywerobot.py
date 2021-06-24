@@ -24,7 +24,7 @@ def subscribe():
            "-->输入'帮助'或'？'可再次显示此信息\n"
 
 
-# 关键字 博客 回复
+# 获取邀请链接
 @robot.filter('二维码', '邀请', 'yq', 'qrcode', 'invite')
 def invite(message):
     reply = ArticlesReply(message=message)
@@ -38,7 +38,7 @@ def invite(message):
     return reply
 
 
-# 获取邀请链接
+# 关键字 博客 回复
 @robot.filter('博客', 'blog')
 def blog(message):
     reply = ArticlesReply(message=message)
